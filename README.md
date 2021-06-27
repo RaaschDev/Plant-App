@@ -1,6 +1,6 @@
 # Plant App
 
- > status: loading
+ >status: loading
 
 ## Features
 
