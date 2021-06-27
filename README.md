@@ -1,4 +1,4 @@
-# Plant App
+# :cactus: Plant App :herb:
 
  >status: loading
 
