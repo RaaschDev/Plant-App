@@ -1,4 +1,6 @@
 # Plant App
 
-A new Flutter project.
+App para amantes de plantas
+
+#Features
 
