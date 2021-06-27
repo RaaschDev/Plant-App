@@ -1,6 +1,6 @@
 # Plant App
 
- >status: loading :loading:
+ >status: loading :herb:
 
 ## Pesentation
 
