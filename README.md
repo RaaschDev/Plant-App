@@ -1,6 +1,6 @@
 # Plant App
 
- >status: loading:plant:
+ >status: loading :star:
 
 ## Pesentation
 
