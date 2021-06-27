@@ -1,6 +1,6 @@
 # Plant App
 
-App para amantes de plantas
+status loading
 
-#Features
+# Features
 
